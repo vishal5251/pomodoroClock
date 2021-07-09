@@ -1,4 +1,4 @@
-# Getting Started with Create React App [link](http://github.com/vishal5251/pomodoroClock)
+# Getting Started with Create React App [link](http://homeshopper.me/pomodoroClock/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
